@@ -1,8 +1,8 @@
  body {
     height: 200px;
-    background: beige;
-  }
-  .dot {
+    background: red;
+  } triangle
+  . {
     height: 8px; width: 8px;
     border-radius: 4px; /* rounds corners */
     background: blue;
